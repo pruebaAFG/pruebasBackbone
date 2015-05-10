@@ -2,4 +2,4 @@ hola
  Mundo desde dentro del fichero
 
 
-Esta es la segunday tercera prueba modificada
+Esta es la segunda y tercera prueba modificada
